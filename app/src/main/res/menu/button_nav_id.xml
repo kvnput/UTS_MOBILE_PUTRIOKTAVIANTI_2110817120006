@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_solo"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Solo" />
+
+    <item
+        android:id="@+id/navigation_grup"
+        android:icon="@drawable/baseline_people_24"
+        android:title="Grup" />
+
+
+</menu>
